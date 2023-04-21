@@ -37,9 +37,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://vk.com/ilyha.nest" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-</a>
-
+<img src=https://img.shields.io/badge/vk-%23000000.svg?&style=for-the-badge&logo=vk&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 
 <br/>  
 
