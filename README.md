@@ -60,7 +60,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Последние записи в блоге 
 
 
 <div align="center">
