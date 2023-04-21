@@ -11,7 +11,7 @@
 
 
 - 🌐 В свободное время верстаю Figma проекты  
----
+
 ## Технологии  
 <div display = "flex">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
@@ -27,7 +27,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>    
 </div>
 
----
+
 
 ## Связь со мной
 <a href="https://github.com/ilyhan" target="_blank">
@@ -45,7 +45,7 @@
 <br/>  
 
 
-## Github Stats  
+## Статистика на Github  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ilyhan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -54,21 +54,6 @@
 ## Recent Blog Posts  
 
 
-<br/>  
-
-
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ilyhan&&style=flat-square" align="center" />
 </div>  
-
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
