@@ -37,9 +37,11 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://vk.com/ilyha.nest" target="_blank">
-<img src=https://img.shields.io/badge/vk-%23000000.svg?&style=for-the-badge&logo=vkontakte&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/vk-%23000000.svg?&style=for-the-badge&logo=vk&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-
+<a href="https://t.me/DJNest" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 <br/>  
 
 
