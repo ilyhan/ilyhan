@@ -11,7 +11,7 @@
 
 
 - 🌐 В свободное время верстаю Figma проекты  
-
+---
 ### Технологии  
 <div display = "flex">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
@@ -27,7 +27,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>  
 <br/>  
 </div>
-
+---
 ## Connect with me  
 <a href="https://github.com/ilyhan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
