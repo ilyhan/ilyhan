@@ -33,9 +33,6 @@
 <a href="https://github.com/ilyhan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/baobab_195" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 <a href="https://vk.com/ilyha.nest" target="_blank">
 <img src=https://img.shields.io/badge/vk-%23000000.svg?&style=for-the-badge&logo=vk&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
