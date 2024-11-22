@@ -4,13 +4,17 @@
 
 
 ## Обо мне:  
-Я студент третьего курса Воронежского Государственного Университета. Начал увлекаться веб разработкой еще со школы, когда нам открыли доступ к практике на HTML Academy. С тех пор я понял, что это направление в it мне очень интересно, и я начал активно изучать все его особенности. В универе я познакомился с С++ и LaTeX.  
+Я студент третьего курса Воронежского Государственного Университета. Начал увлекаться веб разработкой еще со школы, когда нам открыли доступ к практике на HTML Academy. С тех пор я понял, что это направление в it мне очень интересно, и я начал активно изучать все его особенности. В универе я познакомился с С++ и C#.  
 
 
-- 🌱 В настоящее время активно изучаю JS 
+- 🌱 В настоящее время активно изучаю TS 
 
 
 - 🌐 В свободное время делаю проект Detailer
+
+
+## Опыт:
+В 2024 году прошел стажировку в it компании РЕЛЭКС, где познакомился с TS, Styled Components, Redux Toolkit, RTK Query и улучшил навыки работы с Git и Jira. Эта стажировка расширила мой технический стек и помогла мне развить навыки работы в команде. 
 
 ## Технологии  
 <div display = "flex">
@@ -22,9 +26,12 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="40" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>   
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>    
+<a href="https://vitejs.dev/" target="_blank"><img style="margin: 20px" src="https://vitejs.dev/logo.svg" alt="Vite" height="40" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 20px" src="https://styled-components.com/native.png" alt="Styled Components" height="40" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="SCSS" height="40" /></a>
 </div>
 
 
