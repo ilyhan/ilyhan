@@ -30,7 +30,6 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>    
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 20px" src="https://vitejs.dev/logo.svg" alt="Vite" height="40" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 20px" src="https://styled-components.com/native.png" alt="Styled Components" height="40" /></a>
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="SCSS" height="40" /></a>
 </div>
 
